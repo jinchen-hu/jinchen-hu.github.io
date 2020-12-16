@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jinchen-hu.github.io/</loc>
+    <lastmod>2020-12-16T02:46:04-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinchen-hu.github.io/post/</loc>
+    <lastmod>2020-12-16T02:46:04-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jinchen-hu.github.io/post/readme/</loc>
+    <lastmod>2020-12-16T02:46:04-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jinchen-hu.github.io/search/placeholder/</loc>
   </url>
   
@@ -16,10 +31,6 @@
   
   <url>
     <loc>https://jinchen-hu.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jinchen-hu.github.io/</loc>
   </url>
   
   <url>
